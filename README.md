@@ -1,4 +1,4 @@
-# Open Source Literature Manifest
+# Open Source Literature Manifesto
 
 Let's design the future together!
 
