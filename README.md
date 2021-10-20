@@ -39,6 +39,11 @@ There is no any limitation to any other usage of those artworks and Open Source 
 
 This Manifesto is also a piece of the Open Source Literature. Welcome to contribute! 
 
+## Conclusion
+
+This concept is something more than just an idea to make something beautiful together. It's the next generation of social media network. Now we have people binded together in social network where they can share their own content. Also, we have some communities that can be united by some idea. But in the case of Open Source Literature artwork people can be united by their own atr product that has significant cultural value.
+
+
 ## References
 
 1. https://jjmerelo.medium.com/open-source-your-novel-8cd02fdc55f0
