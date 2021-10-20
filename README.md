@@ -12,9 +12,14 @@ We propose absolutely new consept of Literature. The art works of it will be fre
 
 1. The best in this world for free. If you are going to contribute you should be ready to provide your results to everybody for free without any restriction.
 2. Collaboration and competition. You can either provide to the person ability to collobarate and to contribute in your project inside your rules and workflow or give them the ability to fork (take for the initial state) your current or any previous version of your art work to start their own project with their rules and workflow.
-3. Attribution.   
+3. Attribution. You must have a history of all changes and all individual contributions including contribution history of your the project that was taken as the initial point of your artwork.
+4. Infinit project livetime and infinit development process. Any Open Literature projecct can't be closed of freesed. If you don't want or don't have the ability to continue it, you can find a new maintainer and not prevent any futher development of the project.
+5. Versions and variants. You can mark some states of your art project with some version labels for the better reffering and some external usage. You can also have some variations of text (branches) inside one project that can developed in parallel.
+6. Commercial usage. Any commercial usage of Open Source Literature texts allowed with strict reference to the source text and the link where it could be available for free.    
 
+## Notes and explanations for the Commercial usage.
 
+For example, you can take any Open Source Literature project for the base of your movie plot or theater play, you don't need to pay any royalty, but you must refer to the original source and outline the atribution of the artwork.
 
 ## References
 
