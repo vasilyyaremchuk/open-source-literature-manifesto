@@ -27,9 +27,17 @@ We just need to set a basic rules.
 5. Versions and variants. You can mark some states of your art project with some version labels for the better reffering and some external usage. You can also have some variations of text (branches) inside one project that can developed in parallel.
 6. Commercial usage. Any commercial usage of Open Source Literature texts allowed with strict reference to the source text and the link where it could be available for free.    
 
-## Notes and explanations for the Commercial usage.
+## Notes and Explanations for the Commercial usage
 
 For example, you can take any Open Source Literature project for the base of your movie plot or theater play, you don't need to pay any royalty, but you must refer to the original source and outline the atribution of the artwork.
+
+## Other usage
+
+There is no any limitation to any other usage of those artworks and Open Source Literature approach. For example, you can play in creation of the novel or story in your team inside the teambuilding process or practice agile, scrum or any other 3rd party metodology.
+
+## Final important note
+
+This Manifesto is also a piece of the Open Source Literature. Welcome to contribute! 
 
 ## References
 
