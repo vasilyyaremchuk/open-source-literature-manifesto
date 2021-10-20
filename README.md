@@ -4,9 +4,19 @@ Let's design the future together!
 
 ## Introduction
 
-We propose absolutely new consept of Literature. The art works of it will be free, flexible, ready to continues improvment and with unlimited lifetime.
+We propose absolutely new consept of Literature. The art works of it will be free, flexible, ready to continues improvment and with unlimited lifetime. The novel can follow to the new life changes and can be up-to-date and clear for any new generation and it can be better and better with each new version. Evrebody can contribute and change the world.
 
 ## Background
+
+We are used to taking literary works as something set in stone with the author, final version and publishing date. When you were young you can imagine the other final of your favorite story...
+
+But there is another example, these are folk tales, which have different versions and were created by many people.
+
+We are inspired by the success of Open Source's approach to software development and are confident that it can be extrapolated to other areas of life.
+
+Literature could be a good option to try it, because it's a text like we have in the most cases of software development. We have a lot of colaboration tools, for example Git, that can be borrowed to work with a Literature projects.
+
+We just need to set a basic rules.
 
 ## Manifesto
 
