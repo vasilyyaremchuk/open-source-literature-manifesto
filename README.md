@@ -4,7 +4,7 @@ Let's design the future together!
 
 ## Introduction
 
-We propose absolutely new consept of Literature. The art works of it will be free, flexible, ready to continues improvment and with unlimited lifetime. The novel can follow to the new life changes and can be up-to-date and clear for any new generation and it can be better and better with each new version. Evrebody can contribute and change the world.
+We propose absolutely new concept of Literature. The artworks of it will be free, flexible, ready for continuous improvement, and with an unlimited lifetime. The novel can follow the new life changes and can be up-to-date and clear for any new generation and it can be better and better with each new version. Everybody can contribute and change the world.
 
 ## Background
 
